@@ -1,4 +1,9 @@
-## Hi there 👋
+## Halo 👋
+
+Perkenalkan saya Jason Anthony Nugroho
+
+Saya seorang Newbie Developer yang saat ini sedang menjalani perkuliahan di Universitas Kristen Duta Wacana <br>
+Saya saat ini sedang menjalani akademi di Bangkit Academy pada tahun 2024 dengan Learning Path Cloud Computing <br>
 
 <!--
 **JasonAnthonyNugroho/JasonAnthonyNugroho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
