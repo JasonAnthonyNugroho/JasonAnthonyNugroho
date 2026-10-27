@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Jason Anthony Nugroho 👋</h1>
-  <p><b>Information Systems Graduate & Aspiring Tech Professional</b></p>
+  <p><b>Information Systems Graduate</b></p>
   <p>📍 Yogyakarta, Indonesia</p>
 </div>
 
